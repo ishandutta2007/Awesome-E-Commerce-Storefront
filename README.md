@@ -1,6 +1,6 @@
 # Awesome-E-Commerce-Storefront
 
-# Top E-Commerce Storefront Ecosystem
+## Top E-Commerce Storefront Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Storefronts, Headless Commerce & Transaction-Fee-Free Alternatives*  
