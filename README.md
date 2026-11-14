@@ -64,9 +64,9 @@ The global e-commerce software and storefront platform market is estimated at ap
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects sorted in **descending order by GitHub star count**. Each project's star badge links directly to its official stargazers page.
+Curated open-source projects sorted in **descending order by GitHub Stars_Count**. Each project's Stars_Badge links directly to its official stargazers page.
 
-| Project | ⭐ GitHub Stars | 🧰 Technology / Stack | 📜 License | 📝 Description |
+| Project | ⭐ GitHub_Stars | 🧰 Technology / Stack | 📜 License | 📝 Description |
 |---|---|---|---|---|
 | **[Medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | Node.js, TypeScript | MIT / Commercial (Enterprise) | **Leading headless commerce framework for TypeScript teams.** REST Store & Admin APIs, customizable workflow engine, modules, and API routes in one unified codebase. Medusa Cloud starts at $29/mo with 0% GMV platform tax. |
 | **[Bagisto](https://github.com/bagisto/bagisto)** | [![Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | PHP, Laravel, Vue.js | MIT | **Complete open-source Laravel e-commerce platform.** Includes multi-currency, localized inventory, multi-vendor marketplace features, and a GraphQL/REST API layer out of the box with zero licensing fees. |
